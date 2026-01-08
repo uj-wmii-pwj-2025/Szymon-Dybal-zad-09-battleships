@@ -1,7 +1,7 @@
 package uj.wmii.pwj.collections;
 
 
-// 1. IMPORTUJEMY TWÓJ GENERATOR
+
 import uj.wmii.pwj.collections.engine.BattleshipGenerator;
 import uj.wmii.pwj.collections.gameHelpers.myBoard;
 import uj.wmii.pwj.collections.gameLogic.Controller;

@@ -1,6 +1,7 @@
 package uj.wmii.pwj.collections;
 
 import org.junit.jupiter.api.RepeatedTest;
+import uj.wmii.pwj.collections.engine.BattleshipGenerator;
 
 import java.util.*;
 
